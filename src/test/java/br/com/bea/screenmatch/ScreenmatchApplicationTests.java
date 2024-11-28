@@ -8,7 +8,7 @@ class ScreenmatchApplicationTests {
 
 	@Test
 	void contextLoads() {
-		System.out.println("teste");
+		System.out.println("teste 2");
 	}
 
 }
